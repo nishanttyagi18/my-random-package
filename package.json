@@ -1,0 +1,8 @@
+{
+    "name": "@nishant18/my-random-package",
+    "version": "1.0.0",
+    "main": "index.js",
+    "files": [
+        "index.js"
+    ]
+}
